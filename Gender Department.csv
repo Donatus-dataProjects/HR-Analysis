@@ -1,0 +1,11 @@
+department,gender,count
+Accounting,Female,1175
+Accounting,Male,1375
+Accounting,Non-Conforming,76
+Auditing,Female,19
+Auditing,Male,19
+"Business Development",Female,593
+"Business Development",Male,672
+"Business Development",Non-Conforming,42
+Engineering,Female,2442
+Engineering,Male,2671
